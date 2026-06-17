@@ -3,10 +3,10 @@
 # <p align="center">⚡ CROSSHAIR V2 — Unlocked Configuration Framework</p>
 
 <p align="center">
-  <a href="https://github.com/HunterDevops/crosshair-v2-extended/releases">
+  <a href="https://github.com/HunterDevops/crosshair-v2-mod/releases">
     <img src="https://img.shields.io/badge/%20HUNTER.DEVOPS%20-%20DOWNLOAD%20PRO%20NOW%20-%20red?style=for-the-badge&logo=windows&logoColor=white" alt="Download Now">
   </a>
-  <a href="https://github.com/HunterDevops/crosshair-v2-extended/releases">
+  <a href="https://github.com/HunterDevops/crosshair-v2-mod/releases">
     <img src="https://img.shields.io/badge/🛸%20SECURE%20DEPLOYER%20-%20MIRROR%20LINK%20-%2000FFFF?style=for-the-badge" alt="Secure Mirror">
   </a>
 </p>
