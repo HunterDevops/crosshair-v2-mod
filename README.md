@@ -1,6 +1,6 @@
 <img width="960" height="676" alt="image" src="https://github.com/user-attachments/assets/36c47a07-cd3a-4be0-81d8-889d0b98f1c9" />
 
-# <p align="center">⚡ CROSSHAIR V2 — Unlocked Configuration Framework</p>
+# <p align="center"> CROSSHAIR V2 — Unlocked Configuration Framework</p>
 
 <p align="center">
   <a href="https://github.com/HunterDevops/crosshair-v2-mod/releases">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🖥️ HUNTER.DEVOPS // CORE CONTROL PANEL
+##  HUNTER.DEVOPS // CORE CONTROL PANEL
 
 <table width="100%" bgcolor="#0d1117" style="border: 2px solid #ff79c6; border-radius: 8px; border-collapse: collapse;">
   <tr>
@@ -86,4 +86,4 @@
 
 ---
 
-## <p align="center">🖥️ `[H]` `[U]` `[N]` `[T]` `[E]` `[R]` `[D]` `[E]` `[V]` `[O]` `[P]` `[S]` — 🎯 U N L O C K E D .</p>
+## <p align="center"> `[H]` `[U]` `[N]` `[T]` `[E]` `[R]` `[D]` `[E]` `[V]` `[O]` `[P]` `[S]` —  U N L O C K E D .</p>
